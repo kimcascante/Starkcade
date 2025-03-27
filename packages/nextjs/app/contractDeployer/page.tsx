@@ -119,7 +119,7 @@ export const ContractDeployer = () => {
   }
 
   return (
-    <div className="contract-deployer max-w-3xl mx-auto p-6 bg-base-100 rounded-lg shadow-md">
+    <div className="contract-deployer max-w-3xl mx-auto p-6 bg-base-100 rounded-lg shadow-md mt-10 mb-10">
       <h2 className="text-3xl font-bold mb-4">Smart Contract Management</h2>
       
       <div className="bg-white p-6 rounded-lg shadow-sm">
